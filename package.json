@@ -1,0 +1,22 @@
+{
+  "name": "splat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx bendis",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slobodan Jovanovic",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bendis": "^1.0.3",
+    "gsplat": "^1.2.4"
+  },
+  "config": {
+    "prefix": "splat",
+    "port": 9090
+  },
+  "bin": {}
+}
