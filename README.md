@@ -1,6 +1,6 @@
 # Splat Face
 
-This repository contains an experimental web based demo of a Gaussian Splatting rendering technique applied to human face mesh all working in real time.
+This repository contains experimental web based demo of a Gaussian Splatting rendering technique applied to human face mesh all working in real time.
 
 <p align="center">
   <img alt="gaussian splatting tensorflow face detection computer vision" src="src/assets/face.png" />
